@@ -10,6 +10,7 @@ ake a screenshot of your city from google maps.
 Create clickable regions and execute html files.
 
 ## Code:
+```python
 maps.html
 <!DOCTYPE html>
 <html lang="en">
@@ -96,7 +97,6 @@ Simple and relax with play area.
 </p>
 </body>
 </html>
-
 ghs.html
 <!DOCTYPE html>
 <html lang="en">
@@ -124,7 +124,6 @@ The main objectives of Ariyalur Government Higher Secondary School are
 </p>
 </body>
 </html>
-
 rto.html
 <!DOCTYPE html>
 <html lang="en">
@@ -150,8 +149,6 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 </p>
 </body>
 </html>
-
-
 vk.html
 <!DOCTYPE html>
 <html lang="en">
@@ -177,6 +174,7 @@ RTOs are also responsible for improving road and vehicle safety, especially to a
 </p>
 </body>
 </html>
+```
 
 ## Output:
 ![](maps.jpeg)
